@@ -1,4 +1,4 @@
-import * as settings from "../config";
+import * as config from "../config";
 export const settings = config.settings;
 
 async function request(url, options) {
